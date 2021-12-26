@@ -1,0 +1,20 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "This repo is for stuff we link to our repos a alot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pepperbot-Development/resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pepperbot-Development/resources/issues"
+  },
+  "homepage": "https://github.com/Pepperbot-Development/resources#readme"
+}
